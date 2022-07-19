@@ -21,6 +21,8 @@ The project's contracts have been deployed to Rinkeby:
 ### Class Diagram
 <img src="images/ClassDiagram.jpg" width="800" height="600">
 
+# DApp User Interface
+
 The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_product_overview.png)
