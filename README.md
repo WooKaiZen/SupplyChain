@@ -2,6 +2,20 @@
 
 This repository contains an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
+# UML Diagrams
+
+### Activity Diagram
+![Activity Diagram](images/ActivityDiagram.jpg)
+
+### Sequence Diagram
+![Sequence Diagram](images/SequenceDiagram.jpg)
+
+### State Diagram
+![State Diagram](images/StateDiagram.jpg)
+
+### Class Diagram
+![Class Diagram](images/ClassDiagram.jpg)
+
 The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_product_overview.png)
