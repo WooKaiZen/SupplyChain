@@ -5,7 +5,24 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 # Contracts Addresses
 
 The project's contracts have been deployed to Rinkeby:
-<.sol: transaction, contract>
+* Migrations: 
+[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
+[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
+* FarmerRole: 
+[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
+[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
+* DistributorRole: 
+[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
+[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
+* RetailerRole: 
+[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
+[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
+* ConsumerRole: 
+[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
+[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
+* SupplyChain: 
+[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
+[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
 
 # UML Diagrams
 
