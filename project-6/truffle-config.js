@@ -19,10 +19,8 @@
  */
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "8865033a87c9423ebc8ab20410bf8dd4";
-//
+require("dotenv").config();
 const fs = require('fs');
-const mnemonic = fs.readFileSync(".env").toString().trim();
 
 module.exports = {
   /**
@@ -44,7 +42,7 @@ module.exports = {
     //
     development: {
       host: "127.0.0.1",     // Localhost (default: none)
-      port: 7545,            // Standard Ethereum port (default: none)
+      port: 8545,            // Standard Ethereum port (default: none)
       network_id: "*",       // Any network (default: none)
     },
     
@@ -65,12 +63,12 @@ module.exports = {
     // Useful for deploying to a public network.
     // NB: It's important to wrap the provider as a function.
     rinkeby: {
-      provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/8865033a87c9423ebc8ab20410bf8dd4`),
-      network_id: 4,       // Rinkeby's id
-      gas: 5500000,        // Rinkeby has a lower block limit than mainnet
-      confirmations: 2,    // # of confs to wait between deployments. (default: 0)
-      timeoutBlocks: 200,  // # of blocks before a deployment times out  (minimum/default: 50)
-      skipDryRun: true     // Skip dry run before migrations? (default: false for public nets )
+      provider: function () {
+        return new HDWalletProvider(process.env.MNEMONIC, `https://rinkeby.infura.io/v3/${process.env.INFURA_API_KEY}`);
+      },
+      network_id: 4,
+      gas: 5500000,
+      gasPrice: 10000000000,
     },
 
     // Useful for private networks
