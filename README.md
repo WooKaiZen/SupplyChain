@@ -5,24 +5,24 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 # Contracts Addresses
 
 The project's contracts have been deployed to Rinkeby:
-* Migrations: 
-[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
-[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
-* FarmerRole: 
-[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
-[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
-* DistributorRole: 
-[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
-[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
-* RetailerRole: 
-[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
-[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
-* ConsumerRole: 
-[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
-[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
-* SupplyChain: 
-[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143) 
-[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)
+* Migrations:   
+[Transaction](https://rinkeby.etherscan.io/tx/0x147d7f203998a24d4a88b67431649fb9a6693f2be9e3cbb6b240d4c7285ac143)   
+[Contract address](https://rinkeby.etherscan.io/address/0xba3d05e18082a463ec68a23e365874894512eed3)  
+* FarmerRole:   
+[Transaction](https://rinkeby.etherscan.io/tx/0x38524f8934010c82dffcbde93c427b389656f0bf0b0676b5a138e84e085b6ec8)   
+[Contract address](https://rinkeby.etherscan.io/address/0x62f0a21935385e948683cb816ae897a9185efa10)  
+* DistributorRole:   
+[Transaction](https://rinkeby.etherscan.io/tx/0xe46f99b1c2588af46f814f0cd4156a5dd4a964b2ca2a924435b5375fc337c211)   
+[Contract address](https://rinkeby.etherscan.io/address/0xbfebe6893678194542ad73cd9f60b58c52636d89)   
+* RetailerRole:   
+[Transaction](https://rinkeby.etherscan.io/tx/0xfa4f89d6b7951e7bb84e349782bf06719f953634565843128a4a9a00cc83a4d8)   
+[Contract address](https://rinkeby.etherscan.io/address/0xd09fc6f2cb38e74ab610cba50b0310e83a446869)   
+* ConsumerRole:   
+[Transaction](https://rinkeby.etherscan.io/tx/0x04a40cd1d8fa5c15cbc04b36185077da0f88ee9ad196d3b02bc53004fb8995c2)   
+[Contract address](https://rinkeby.etherscan.io/address/0xdb1c3ce4e93cd4065fd7cd4d8fc4226fb8833752)   
+* SupplyChain:   
+[Transaction](https://rinkeby.etherscan.io/tx/0x832b9ffeccbd4d65bd40b0f2272f3182a999367d41fd6300371be597af9c4e67)   
+[Contract address](https://rinkeby.etherscan.io/address/0xf3a99781c1309bb508e81bb29c69c371ff4e05bb)   
 
 # UML Diagrams
 
