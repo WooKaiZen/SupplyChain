@@ -5,16 +5,16 @@ This repository contains an Ethereum DApp that demonstrates a Supply Chain flow 
 # UML Diagrams
 
 ### Activity Diagram
-![Activity Diagram](images/ActivityDiagram.jpg)
+<img src="images/ActivityDiagram.jpg" width="600" height="450">
 
 ### Sequence Diagram
-![Sequence Diagram](images/SequenceDiagram.jpg)
+<img src="images/SequenceDiagram.jpg" width="600" height="450">
 
 ### State Diagram
-![State Diagram](images/StateDiagram.jpg)
+<img src="images/StateDiagram.jpg" width="600" height="450">
 
 ### Class Diagram
-![Class Diagram](images/ClassDiagram.jpg)
+<img src="images/ClassDiagram.jpg" width="600" height="450">
 
 The DApp User Interface when running should look like...
 
